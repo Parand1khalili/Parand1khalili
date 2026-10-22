@@ -1,8 +1,8 @@
-<p align="center">
+<!-- <p align="center">
   <a href="https://parand1khalili.github.io/">
     <img src="https://parand1khalili.github.io/assets/social-preview.png" alt="Parand Khalili — Computer Engineering, Data & AI" width="760" />
   </a>
-</p>
+</p> -->
 
 <h1 align="center">Hi, I'm Parand 👋</h1>
 
