@@ -7,7 +7,7 @@
 <h1 align="center">Hi, I'm Parand 👋</h1>
 
 <p align="center">
-  <strong>Computer Engineering @ Amirkabir University of Technology</strong><br />
+  <strong>Retail Data Analyst @ EMRC · Computer Engineering @ Amirkabir University of Technology</strong><br />
   Graph Machine Learning &amp; LLMs · Applied ML · Data Analytics
 </p>
 
@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <em>Curious about how data, language, and graph structure can make learning more efficient.<br />
+  <em>Turning complex data into useful insights, while exploring how language and graph structure can make learning more efficient.<br />
   Always excited to learn, build, and exchange ideas with others.</em>
 </p>
 
@@ -33,9 +33,9 @@
 
 ### A little about me
 
-I'm a B.Sc. Computer Engineering student at **Amirkabir University of Technology (Tehran Polytechnic)**. My interests sit at the intersection of **graph representation learning, large language models, and learning from limited labeled data**.
+I'm a B.Sc. Computer Engineering student at **Amirkabir University of Technology (Tehran Polytechnic)** and currently work as a **Retail Data Analyst at EMRC**. I analyze retail datasets, prepare client-facing reports, and build Python tools to simplify analytical workflows.
 
-I enjoy moving between research and hands-on engineering: from exploring graph learning methods to building machine-learning pipelines, implementing neural-network components, and making data useful through analytics. I also enjoy teaching and sharing what I learn.
+My research interests sit at the intersection of **graph representation learning, large language models, and learning from limited labeled data**. I enjoy moving between research and hands-on engineering—from exploring graph learning methods to building machine-learning pipelines and neural-network components. I also enjoy teaching and sharing what I learn.
 
 ### Research in progress
 
@@ -57,11 +57,16 @@ I'm investigating how graph-neighborhood context can inform LLM-assisted node an
 | **[HR Analytics Dashboard](https://github.com/Parand1khalili/PowerBI_HR_Analysis)** | Power BI analysis of employee attrition, compensation, and hiring trends, supported by data preparation and exploratory analysis. |
 | **[Personal Portfolio Website](https://github.com/Parand1khalili/Parand1khalili.github.io)** | A responsive home for my research, project evidence, background, and technical work. [Visit the site →](https://parand1khalili.github.io/) |
 
-### Beyond the projects
+### Experience & teaching
 
-- **Head Teaching Assistant — Business Intelligence (Fall 2025):** Prepared instructional material and course projects; taught Power BI, Python, SQL, and data modeling.
-- **Teaching Assistant:** Contributed to courses including Data Mining, Advanced Software Engineering, Software Engineering, Applied Linear Algebra, Computer Architecture, and Advanced Programming.
-- **Data Analysis & BI Intern — YAS Arghavani System Engineering Co. (Bank Mellat IT Holding), Summer 2025:** Built Power BI dashboards and transformed transactional data with Power Query and DAX for KPI-driven reporting.
+**Retail Data Analyst · EMRC** | Jul 2026 – Present  
+I work with retail datasets and deliver client-facing analytical reports. I built a reusable Python application for an internal workflow and am currently developing a customizable pipeline for client report generation.
+
+**Data Analysis & BI Intern · YAS Arghavani System Engineering Co. (Bank Mellat IT Holding)** | Summer 2025  
+Built Power BI dashboards for POS performance and maintenance, and transformed transactional data using Power Query and DAX for KPI-driven reporting.
+
+**Head Teaching Assistant · Business Intelligence** | Fall 2025  
+Prepared instructional materials and course projects; taught Power BI, Python, SQL, and data modeling. I have also served as a TA for Data Mining, Advanced Software Engineering, Software Engineering, Applied Linear Algebra, Computer Architecture, and Advanced Programming.
 
 ### Things I work with
 
