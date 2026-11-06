@@ -1,89 +1,87 @@
-<!-- <p align="center">
-  <a href="https://parand1khalili.github.io/">
-    <img src="https://parand1khalili.github.io/assets/social-preview.png" alt="Parand Khalili — Computer Engineering, Data & AI" width="760" />
-  </a>
-</p> -->
+<div align="center">
 
-<h1 align="center">Hi, I'm Parand 👋</h1>
+<a href="https://parand1khalili.github.io/">
+  <img src="https://parand1khalili.github.io/assets/favicon.svg" alt="Parand Khalili portfolio logo" width="56" height="56" />
+</a>
 
-<p align="center">
-  <strong>Retail Data Analyst @ EMRC · Computer Engineering @ Amirkabir University of Technology</strong><br />
-  Graph Machine Learning &amp; LLMs · Applied ML · Data Analytics
-</p>
+# Hi, I'm Parand 👋
 
-<p align="center">
-  <a href="https://parand1khalili.github.io/">Portfolio</a> ·
-  <a href="https://parand1khalili.github.io/projects.html">Projects</a> ·
-  <a href="https://parand1khalili.github.io/assets/Parand_Khalili_CV.pdf">CV</a> ·
-  <a href="https://www.linkedin.com/in/parand-khalili-4428552b6">LinkedIn</a> ·
-  <a href="mailto:parandkhalili@aut.ac.ir">Email</a>
-</p>
+**Retail Data Analyst at EMRC · Computer Engineering at Amirkabir University of Technology**
 
-<p align="center">
-  <em>Turning complex data into useful insights, while exploring how language and graph structure can make learning more efficient.<br />
-  Always excited to learn, build, and exchange ideas with others.</em>
-</p>
+I work with data to solve practical problems, and with graphs and language models to explore new ones.
 
-<p align="center">
-  <strong>Open to research collaborations, AI/ML projects, and interesting opportunities.</strong><br />
-  <a href="#lets-connect">Let's connect ↓</a>
-</p>
+[**Portfolio**](https://parand1khalili.github.io/) · [**Projects**](https://parand1khalili.github.io/projects.html) · [**CV**](https://parand1khalili.github.io/assets/Parand_Khalili_CV.pdf) · [**LinkedIn**](https://www.linkedin.com/in/parand-khalili-4428552b6) · [**Email**](mailto:parandkhalili@aut.ac.ir)
+
+*Open to research collaborations, thoughtful engineering projects, and new connections.*
+
+</div>
 
 ---
 
 ### A little about me
 
-I'm a B.Sc. Computer Engineering student at **Amirkabir University of Technology (Tehran Polytechnic)** and currently work as a **Retail Data Analyst at EMRC**. I analyze retail datasets, prepare client-facing reports, and build Python tools to simplify analytical workflows.
+I'm a Computer Engineering undergraduate at **Amirkabir University of Technology (Tehran Polytechnic)**, and I currently work as a **Retail Data Analyst at EMRC**. Most days, that means making sense of retail data, preparing reports people can actually use, and building Python tools to make analytical work more efficient.
 
-My research interests sit at the intersection of **graph representation learning, large language models, and learning from limited labeled data**. I enjoy moving between research and hands-on engineering—from exploring graph learning methods to building machine-learning pipelines and neural-network components. I also enjoy teaching and sharing what I learn.
+I also love the part of computer science where you get to ask *why something works*. That's what draws me to graph machine learning and LLMs. Outside work and research, I enjoy building projects from scratch, learning new technologies, and teaching what I've learned.
 
-### Research in progress
+### What I'm researching
 
-**Undergraduate thesis — A Structure-Aware LLM-Based Framework for Graph Node Labeling**
+**Undergraduate thesis (ongoing): A Structure-Aware LLM-Based Framework for Graph Node Labeling**
 
-I'm investigating how graph-neighborhood context can inform LLM-assisted node annotation and support label-efficient GNN node classification. This is **ongoing research**, not a published result.
+I'm exploring a question that keeps me curious: **Can information from a node's neighbors help an LLM assign better labels, and how do those labels affect a downstream graph neural network?**
 
-**Interests:** Graph ML · LLM–GNN integration · Active node classification · Data-efficient learning  
-[Explore the research overview →](https://parand1khalili.github.io/#research)
+Part of this work is **GraphScope**, an interactive research atlas for exploring graph evidence, historical annotation comparisons, and experimental workflows. The research is still in progress; recorded historical results and proposed SARA extensions are kept distinct from new, validated outcomes.
 
-### Selected work
+[Read about my research](https://parand1khalili.github.io/#research)
 
-| Project | Focus |
+### Things I've built
+
+A few projects that reflect what I enjoy working on—from applied ML to compilers and mobile apps.
+
+| Project | What you'll find |
 | :--- | :--- |
-| **[Credit Scoring & Loan Default Risk Mitigation](https://github.com/Parand1khalili/credit-scoring-risk-mitigation)** | An end-to-end ML workflow with financial feature engineering, target encoding, class-imbalance-aware evaluation, and threshold selection. Reported results: **87.41% accuracy**, **79.21% balanced accuracy**, and **4.65 lift at the top decile**. |
-| **[AUJava → C Transpiler (team project)](https://github.com/kianasherafati/AUJava-Transpiler)** | Collaborative Java/ANTLR4 compiler project: a three-pass pipeline for parsing, semantic analysis, and generating C from a Java-like language. [Original team repository](https://github.com/kianasherafati/AUJava-Transpiler). |
-| **[MyTorch Framework & MLP Classifier](https://github.com/Parand1khalili/MLP-Classifier-MyTorch-Framework)** | Core neural-network components built from scratch with NumPy, alongside a PyTorch MLP classifier. |
-| **[Fundamentals of Artificial Intelligence](https://github.com/Parand1khalili/Fundamentals-of-AI)** | Six hands-on projects: A* search, CSP/AC-3, Minimax/Alpha–Beta, Q-learning, Bayesian inference, and **Tetris optimized with genetic algorithms**. Includes algorithm walkthroughs and demonstrations. |
-| **[xv6 System Calls](https://github.com/Parand1khalili/xv6_syscall)** | Operating-system programming in C, including custom system calls and kernel-level changes. |
-| **[HR Analytics Dashboard](https://github.com/Parand1khalili/PowerBI_HR_Analysis)** | Power BI analysis of employee attrition, compensation, and hiring trends, supported by data preparation and exploratory analysis. |
-| **[Personal Portfolio Website](https://github.com/Parand1khalili/Parand1khalili.github.io)** | A responsive home for my research, project evidence, background, and technical work. [Visit the site →](https://parand1khalili.github.io/) |
+| **[Credit Scoring & Risk Mitigation](https://github.com/Parand1khalili/credit-scoring-risk-mitigation)** | A loan-default prediction workflow: feature engineering, model comparisons, risk ranking, and decision-threshold analysis. |
+| **[AUJava → C Transpiler](https://github.com/Parand1khalili/AUJava-Transpiler)** | A **collaborative** three-pass compiler built with Java and ANTLR4, covering parsing, semantic checks, and C code generation. [Original team repository](https://github.com/kianasherafati/AUJava-Transpiler). |
+| **[Hipka Music](https://github.com/Parand1khalili/Hipka_Music)** | A Kotlin/Jetpack Compose music app with Audius discovery, playback, local library features, and offline downloads where permitted. Originally a team project. |
+| **[MyTorch & MLP Classifier](https://github.com/Parand1khalili/MLP-Classifier-MyTorch-Framework)** | Neural-network building blocks implemented with NumPy, alongside a PyTorch classification experiment. |
+| **[Fundamentals of AI](https://github.com/Parand1khalili/Fundamentals-of-AI)** | Six projects covering search, CSPs, game agents, reinforcement learning, Bayesian networks, and a **genetic-algorithm Tetris agent**. |
+| **[HR Analytics Dashboard](https://github.com/Parand1khalili/PowerBI_HR_Analysis)** | Power BI dashboards and data preparation for understanding employee attrition, hiring, and compensation. |
+| **[xv6 System Calls](https://github.com/Parand1khalili/xv6_syscall)** | Exploring OS internals in C by working with process information and trap-reporting system calls. |
 
-### Experience & teaching
+More of my work, including demos and project write-ups, is on my [portfolio website](https://parand1khalili.github.io/projects.html).
 
-**Retail Data Analyst · EMRC** | Jul 2026 – Present  
-I work with retail datasets and deliver client-facing analytical reports. I built a reusable Python application for an internal workflow and am currently developing a customizable pipeline for client report generation.
+### Work & teaching
 
-**Data Analysis & BI Intern · YAS Arghavani System Engineering Co. (Bank Mellat IT Holding)** | Summer 2025  
-Built Power BI dashboards for POS performance and maintenance, and transformed transactional data using Power Query and DAX for KPI-driven reporting.
+- **Retail Data Analyst · EMRC** (Jul 2026 – Present) — Analyze retail datasets, prepare client-facing reports, and build Python tooling for recurring analytical workflows.
+- **Data Analysis & BI Intern · YAS Arghavani System Engineering Co. / Bank Mellat IT Holding** (Summer 2025) — Worked on Power BI reporting and transforming operational data with Power Query and DAX.
+- **Head Teaching Assistant · Business Intelligence** (Fall 2025) — Helped teach Power BI, Python, SQL, and data modeling. I've also been a TA for courses across Data Mining, Software Engineering, Applied Linear Algebra, Computer Architecture, and Programming.
 
-**Head Teaching Assistant · Business Intelligence** | Fall 2025  
-Prepared instructional materials and course projects; taught Power BI, Python, SQL, and data modeling. I have also served as a TA for Data Mining, Advanced Software Engineering, Software Engineering, Applied Linear Algebra, Computer Architecture, and Advanced Programming.
+### Tools I enjoy working with
 
-### Things I work with
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" width="34" height="34" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" title="PyTorch" width="34" height="34" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" title="NumPy" width="34" height="34" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" title="Pandas" width="34" height="34" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" title="Java" width="34" height="34" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" title="Kotlin" width="34" height="34" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" title="C" width="34" height="34" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" title="Git" width="34" height="34" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" title="Linux" width="34" height="34" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="34" height="34" />
+</p>
 
-| Area | Toolkit |
-| :--- | :--- |
-| **Programming** | Python · C++ · C · Java · SQL |
-| **ML & Graph AI** | PyTorch · PyTorch Geometric · scikit-learn · NumPy · Pandas |
-| **Analytics & Visualization** | Power BI · DAX · Power Query · Matplotlib |
-| **Development** | Git · Linux · Docker · Maven · ANTLR4 |
+**Languages:** Python · C++ · C · Java · Kotlin · SQL  
+**ML & data:** PyTorch · PyTorch Geometric · scikit-learn · NumPy · Pandas · Power BI  
+**Engineering:** Git · Linux · Docker · Maven · ANTLR4
 
 ---
 
 ### Let's connect
 
-**I'm always happy to connect with people who are curious about AI, research, data, and building useful software.** Whether you have a research question, a collaboration idea, an internship or work opportunity, or simply want to exchange perspectives, I'd love to hear from you.
+I really enjoy meeting people who are curious, generous with ideas, and excited to build something useful. If you're working on graph ML, AI, data, or software—or have an interesting research or collaboration idea—**I'd love to hear about it**.
 
-Feel free to reach out—I'm excited to meet new people, learn from different perspectives, and work on meaningful projects together.
+I'm always up for a good conversation, exchanging perspectives, or exploring an opportunity to work together.
 
-**[Email me](mailto:parandkhalili@aut.ac.ir) · [Connect on LinkedIn](https://www.linkedin.com/in/parand-khalili-4428552b6) · [Explore my portfolio](https://parand1khalili.github.io/)**
+**[Say hello by email](mailto:parandkhalili@aut.ac.ir) · [Connect on LinkedIn](https://www.linkedin.com/in/parand-khalili-4428552b6) · [Visit my portfolio](https://parand1khalili.github.io/)**
+
