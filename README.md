@@ -4,7 +4,7 @@
   <img src="https://parand1khalili.github.io/assets/favicon.svg" alt="Parand Khalili portfolio logo" width="56" height="56" />
 </a>
 
-# Hi, I'm Parand 👋
+# Hi, I'm Parand
 
 **Retail Data Analyst at EMRC · Computer Engineering at Amirkabir University of Technology**
 
