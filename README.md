@@ -56,24 +56,30 @@ More of my work, including demos and project write-ups, is on my [portfolio webs
 - **Data Analysis & BI Intern · YAS Arghavani System Engineering Co. / Bank Mellat IT Holding** (Summer 2025) — Worked on Power BI reporting and transforming operational data with Power Query and DAX.
 - **Head Teaching Assistant · Business Intelligence** (Fall 2025) — Helped teach Power BI, Python, SQL, and data modeling. I've also been a TA for courses across Data Mining, Software Engineering, Applied Linear Algebra, Computer Architecture, and Programming.
 
-### Tools I enjoy working with
+### Technical toolkit
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" width="34" height="34" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" title="PyTorch" width="34" height="34" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" title="NumPy" width="34" height="34" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" title="Pandas" width="34" height="34" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" title="Java" width="34" height="34" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" title="Kotlin" width="34" height="34" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" title="C" width="34" height="34" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" title="Git" width="34" height="34" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" title="Linux" width="34" height="34" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="34" height="34" />
-</p>
-
-**Languages:** Python · C++ · C · Java · Kotlin · SQL  
-**ML & data:** PyTorch · PyTorch Geometric · scikit-learn · NumPy · Pandas · Power BI  
-**Engineering:** Git · Linux · Docker · Maven · ANTLR4
+<table>
+  <tr>
+  <td align="center" valign="top" width="33%">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36" height="36" alt="Programming category icon" /><br />
+    <strong>Programming</strong><br />
+    <sub>Languages</sub>
+    <p align="center"><code>Python</code> <code>C++</code> <code>C</code><br /><code>Java</code> <code>Kotlin</code> <code>SQL</code></p>
+  </td>
+  <td align="center" valign="top" width="33%">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="36" height="36" alt="ML &amp; data category icon" /><br />
+    <strong>ML &amp; data</strong><br />
+    <sub>Machine learning &amp; analytics</sub>
+    <p align="center"><code>PyTorch</code> <code>PyG</code> <code>scikit-learn</code><br /><code>NumPy</code> <code>Pandas</code> <code>Power BI</code></p>
+  </td>
+  <td align="center" valign="top" width="33%">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="36" height="36" alt="Development category icon" /><br />
+    <strong>Development</strong><br />
+    <sub>Tools &amp; systems</sub>
+    <p align="center"><code>Git</code> <code>Linux</code> <code>Docker</code><br /><code>Maven</code> <code>ANTLR4</code></p>
+  </td>
+  </tr>
+</table>
 
 ---
 
