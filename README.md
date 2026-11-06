@@ -51,8 +51,9 @@ I'm investigating how graph-neighborhood context can inform LLM-assisted node an
 | Project | Focus |
 | :--- | :--- |
 | **[Credit Scoring & Loan Default Risk Mitigation](https://github.com/Parand1khalili/credit-scoring-risk-mitigation)** | An end-to-end ML workflow with financial feature engineering, target encoding, class-imbalance-aware evaluation, and threshold selection. Reported results: **87.41% accuracy**, **79.21% balanced accuracy**, and **4.65 lift at the top decile**. |
+| **[AUJava → C Transpiler (team project)](https://github.com/kianasherafati/AUJava-Transpiler)** | Collaborative Java/ANTLR4 compiler project: a three-pass pipeline for parsing, semantic analysis, and generating C from a Java-like language. [Original team repository](https://github.com/kianasherafati/AUJava-Transpiler). |
 | **[MyTorch Framework & MLP Classifier](https://github.com/Parand1khalili/MLP-Classifier-MyTorch-Framework)** | Core neural-network components built from scratch with NumPy, alongside a PyTorch MLP classifier. |
-| **[Fundamentals of Artificial Intelligence](https://github.com/Parand1khalili/Fundamentals-of-AI)** | A collection spanning A* search, CSP/AC-3, Minimax and Alpha–Beta, Q-learning, and Bayesian inference. |
+| **[Fundamentals of Artificial Intelligence](https://github.com/Parand1khalili/Fundamentals-of-AI)** | Six hands-on projects: A* search, CSP/AC-3, Minimax/Alpha–Beta, Q-learning, Bayesian inference, and **Tetris optimized with genetic algorithms**. Includes algorithm walkthroughs and demonstrations. |
 | **[xv6 System Calls](https://github.com/Parand1khalili/xv6_syscall)** | Operating-system programming in C, including custom system calls and kernel-level changes. |
 | **[HR Analytics Dashboard](https://github.com/Parand1khalili/PowerBI_HR_Analysis)** | Power BI analysis of employee attrition, compensation, and hiring trends, supported by data preparation and exploratory analysis. |
 | **[Personal Portfolio Website](https://github.com/Parand1khalili/Parand1khalili.github.io)** | A responsive home for my research, project evidence, background, and technical work. [Visit the site →](https://parand1khalili.github.io/) |
@@ -75,7 +76,7 @@ Prepared instructional materials and course projects; taught Power BI, Python, S
 | **Programming** | Python · C++ · C · Java · SQL |
 | **ML & Graph AI** | PyTorch · PyTorch Geometric · scikit-learn · NumPy · Pandas |
 | **Analytics & Visualization** | Power BI · DAX · Power Query · Matplotlib |
-| **Development** | Git · Linux · Docker |
+| **Development** | Git · Linux · Docker · Maven · ANTLR4 |
 
 ---
 
